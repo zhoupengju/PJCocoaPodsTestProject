@@ -1,0 +1,6 @@
+framework module PJCocoaPodsTestProject {
+  umbrella header "PJCocoaPodsTestProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

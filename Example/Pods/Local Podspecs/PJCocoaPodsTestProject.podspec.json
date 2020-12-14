@@ -1,0 +1,22 @@
+{
+  "name": "PJCocoaPodsTestProject",
+  "version": "0.1.0",
+  "summary": "A short description of PJCocoaPodsTestProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhoupengju/PJCocoaPodsTestProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhoupengju": "1321932448@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhoupengju/PJCocoaPodsTestProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PJCocoaPodsTestProject/Classes/**/*"
+}
